@@ -1,0 +1,19 @@
+{
+	   "type":"div",
+	  "class":"content",
+	"content":
+	[
+		{
+			 "type":"div",
+			 "text":"Text for example",
+			"class":"left",
+			
+		},
+		{
+			 "type":"div",
+			"class":"left",
+			   "id":"id-for-left",
+			"click":"clickOnDiv"
+		}
+	]
+}
